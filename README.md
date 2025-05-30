@@ -29,7 +29,7 @@ I believe software should be elegant, expressive, and purposeful — whether it'
 
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/johannesrabauer)
+- 💼 [LinkedIn](https://www.linkedin.com/in/johannes-rabauer)
 - 🐘 [Mastodon](https://mastodon.online/@rabauer)
 - 🐦 [Twitter / X](https://twitter.com/JohannesRabauer)
 - 🌐 [Bluesky](https://bsky.app/profile/johannesrabauer.bsky.social)
