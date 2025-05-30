@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Johannes 🌿👨‍💻</h1>
 
-<p align="center">
-  <img src="./profile.jpg" width="200" style="border-radius: 15px;" alt="Profile Photo"/>
-</p>
+<div align="center">
+  <img src="./talk.jpg" alt="Speaking at a tech conference" style="width: 100%; max-width: 1000px; border-radius: 12px;" />
+</div>
 
 <p align="center"><em>
   Java Craftsman • Public Speaker • Father of three • Nature & Tech Enthusiast
@@ -18,10 +18,6 @@
 - 💸 Experienced in fintech, building secure and scalable systems
 - 📢 Speaker at JCON and Java User Groups (JUGs)
 - 🧠 Creator of [XDEV Commit Cards](https://xdev.software/commit-cards) – because code reviews should be fun and thoughtful
-
-<p align="center">
-  <img src="./talk.jpg" width="500" alt="Speaking at a tech conference"/>
-</p>
 
 ---
 
