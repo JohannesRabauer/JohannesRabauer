@@ -30,9 +30,11 @@ I believe software should be elegant, expressive, and purposeful — whether it'
 ### 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/johannes-rabauer)
-- 🐘 [Mastodon](https://mastodon.online/@rabauer)
+- 🦋 [Bluesky](https://bsky.app/profile/johannesrabauer.bsky.social)
+- 📺 [YouTube](https://www.youtube.com/@johannesrabauer)
+- 📱 [TikTok](https://www.tiktok.com/@johannes.rabauer)
 - 🐦 [Twitter / X](https://twitter.com/JohannesRabauer)
-- 🌐 [Bluesky](https://bsky.app/profile/johannesrabauer.bsky.social)
+- 🐘 [Mastodon](https://mastodon.online/@rabauer)
 - 🧩 [Commit Cards](https://xdev.software/commit-cards)
 - 🔍 [GitHub Contributions](https://github.com/JohannesRabauer?tab=repositories)
 - 🌐 [XDEV Software GmbH](https://xdev.software)
